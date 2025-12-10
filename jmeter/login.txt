@@ -1,0 +1,3 @@
+mail,pass
+test45@yahooo.co,123456
+test67@yahooo.co,123456
